@@ -3,7 +3,7 @@
 ## About me
 
 
-- Software Engineering Student at UnB 🎓🎓
+- Software Engineering Student at UnB 🎓
 - Currently working on Personal projects
 - Currently learning **Node.JS**, **Reactive Native** and **PostgreSQL**
 - Reach me at cauamc2006@gmal.com
