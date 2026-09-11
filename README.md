@@ -59,8 +59,8 @@ A task management platform designed to help users **organize, prioritize and tra
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cauamc2006-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamc2006-sketch&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
