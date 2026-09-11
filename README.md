@@ -1,7 +1,16 @@
-# Hey! I'm Cauã Mendes 👋
-          
-🎓 **Software Engineering Student at UnB**
-💻 Interested in software development, web technologies and building practical projects.
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Cau%C3%A3+Mendes+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Building+projects+and+learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+
+
+
+
+---
 
 ## 🚀 About Me
 
@@ -17,7 +26,8 @@
 
 ## 🛠️ Technologies & Languages
 
-<div align="left" >
+<div align="left">
+
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
@@ -25,13 +35,8 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-            
-          
-          
-            
-          
-            
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 </div>
 
 ---
@@ -61,13 +66,17 @@ A task management platform designed to help users **organize, prioritize and tra
 **Technologies:** Node.js • JavaScript • Supabase
 
 ---
+
 ## 🤝 Let's Connect
 
-<a href = "www.linkedin.com/in/caua-coelho" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+<div align="left">
+
+<a href="https://www.linkedin.com/in/caua-coelho" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href = "https://mail.google.com/mail/u/0/#inbox" target="_blank"> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+
+<a href="mailto:cauamc2006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-
-
+</div>
