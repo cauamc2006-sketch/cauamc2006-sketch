@@ -55,18 +55,9 @@ A task management platform designed to help users **organize, prioritize and tra
 **Technologies:** Node.js • JavaScript • Supabase
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cauamc2006-sketch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauamc2006-sketch&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating on projects and connecting with other developers.
+<a href = "www.linkedin.com/in/caua-coelho" target="_blank"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+</a>
 
-📧 **Email:** [cauamc2006@gmail.com](mailto:cauamc2006@gmail.com)
+
